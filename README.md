@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ghulam Mustafa</h1>
-<h3 align="center">A passionate Software developer from Sweden</h3>
+<h3 align="center">Software developer with demonstrated working in both project and product-based companies. </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
