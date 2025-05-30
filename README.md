@@ -1,4 +1,4 @@
-<h3 align="center">Software developer</h3>
+<h3 align="center">| AI DevOps Engineer | Software developer |</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
