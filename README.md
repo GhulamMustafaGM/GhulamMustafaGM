@@ -1,4 +1,4 @@
-<h3 align="center"> | DevOps Engineer | Software Engineer | </h3>
+<h3 align="center"> Engineer (AI, DevOps, Software) </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
