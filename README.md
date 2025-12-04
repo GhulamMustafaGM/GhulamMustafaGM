@@ -1,4 +1,4 @@
-<h3 align="center"> Engineer (AI, DevOps, Software) </h3>
+<h3 align="center"> Full Stack Developer (AI, DevOps, Software, System) </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
